@@ -11,9 +11,9 @@ public class StringS1ToS2UsingRemoveInsertReplaceImplTest {
 
     @Test
     public void findMinOperationToConvertS1ToS2UsingRemoveInsertReplace() {
-        assertEquals(0, stringS1ToS2UsingRemoveInsertReplace.findMinOperationToConvertS1ToS2UsingRemoveInsertReplace("abc", "abc"));
-        assertEquals(1, stringS1ToS2UsingRemoveInsertReplace.findMinOperationToConvertS1ToS2UsingRemoveInsertReplace("geek", "gesek"));
-        assertEquals(1, stringS1ToS2UsingRemoveInsertReplace.findMinOperationToConvertS1ToS2UsingRemoveInsertReplace("cat", "cut"));
-        assertEquals(3, stringS1ToS2UsingRemoveInsertReplace.findMinOperationToConvertS1ToS2UsingRemoveInsertReplace("sunday", "saturday"));
+        assertEquals(0, stringS1ToS2UsingRemoveInsertReplace.findMinOperationToConvertS1ToS2UsingRemoveInsertReplace("abc", "abc", 3, 3));
+        assertEquals(1, stringS1ToS2UsingRemoveInsertReplace.findMinOperationToConvertS1ToS2UsingRemoveInsertReplace("geek", "gesek", 4, 5));
+        assertEquals(1, stringS1ToS2UsingRemoveInsertReplace.findMinOperationToConvertS1ToS2UsingRemoveInsertReplace("cat", "cut",3 , 3));
+        assertEquals(3, stringS1ToS2UsingRemoveInsertReplace.findMinOperationToConvertS1ToS2UsingRemoveInsertReplace("sunday", "saturday", 6,8 ));
     }
 }
