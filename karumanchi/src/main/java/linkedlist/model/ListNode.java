@@ -1,4 +1,4 @@
-package linkedlist;
+package linkedlist.model;
 
 public class ListNode {
 

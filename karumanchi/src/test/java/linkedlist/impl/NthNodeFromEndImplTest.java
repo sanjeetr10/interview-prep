@@ -1,7 +1,6 @@
 package linkedlist.impl;
 
-import com.sun.org.apache.bcel.internal.generic.LNEG;
-import linkedlist.ListNode;
+import linkedlist.model.ListNode;
 import linkedlist.NthNodeFromEnd;
 import org.junit.Before;
 import org.junit.Test;
