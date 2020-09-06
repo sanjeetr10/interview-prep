@@ -1,0 +1,31 @@
+1.  Find nth node from the end o a Linked List.
+2.  Check Whether the given linked list is NULL-terminated or end in a cycle.
+3.  Check Whether the given linked list is NULL-terminated or end in a cycle. If there is a cycle find the start node of the loop.
+4.  Prove why Floyd cycle finding algorithm works.
+5.  Insert a node in sorted linked list.
+6.  Reverse a Singly linked list.
+7.  Write the Algorithm for finding the merging point of two lined list.
+8.  Find the middle of the linked list.
+9.  Display linked list from end.
+10. Check whether given linked list length is even or odd.
+11. Given two sorted linked list, we need to merge them into the third list in sorted order.
+12. Reverse a linked list in pair.
+13. Sort given linked list.
+14. Check if the Linked List is palindrome or not.
+15. Exchange the adjacent elements in link list.
+16. For a given k value (k > 0) reverse blocks of k nodes in a list.
+17. Given a singly linked list L: l1 -> l2 -> l3 ... -> ln-1 -> ln. Reorder it to: l1 -> ln -> l2 -> ln-1 ....
+18. Sort a linked list using insertion sort.
+19. Given a list, rotate the list to the right by k places, where k is non-negative, For example : given
+     1 -> 2 -> 3 -> 4 -> 5 -> NULL and k = 2, return 4 -> 5 -> 1 -> 2 -> 3 -> NULL.
+20. You are given two linked list representing two non=negative numbers. The digits are stored in reverse order and each of their
+    nodes contains a single digit. Add the two numbers ans return it as a linked list. For example:
+    Input: (3 -> 4 -> 3) + (4 -> 6 -> 4)    Output: (7 -> 0 -> 8).
+21. Given a linked list and a value K, partition it such that all nodes less than K comes before nodes greater than or equal to K.
+    you should preserve the original relative order of the nodes in each of the two partitions. For example :
+    Given: 1->4->3->2->5->2  and K = 3, return 1->2->2->4->3->5.
+22. Merge K sorted linked lists and return it as one sorted list.
+23. Given a unordered linked list, how do you remove duplicates in it?
+24. Given a linked list with even and odd numbers, create an algorithm for making changes to the list in such a way
+    that all even numbers appear at the beginning.
+25. Given two sorted linked list, write an algorithm for printing the common elements of them.

@@ -1,6 +1,6 @@
 package linkedlist.impl;
 
-import linkedlist.ListNode;
+import linkedlist.model.ListNode;
 import linkedlist.NthNodeFromEnd;
 
 public class NthNodeFromEndImpl implements NthNodeFromEnd {
